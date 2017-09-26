@@ -1,0 +1,10 @@
+{
+  "name"         : "ngaws",
+  "version"      : "0.0.0",
+  "description"  : "ngaws application.",
+  "main"         : "server.js",
+  "author"       : "snikit",
+  "dependencies" : {
+    "body-parser": "~1.5.2",
+    "express"    : "~4.7.2"    }
+}
